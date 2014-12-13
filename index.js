@@ -1,3 +1,3 @@
 function myFunction() {
-	document.getElementById("test").innerHTML = "Hello Javascript";
+	document.getElementById("test").innerHTML = "Hello people of the interwebs";
 }
